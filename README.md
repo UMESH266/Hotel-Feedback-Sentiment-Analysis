@@ -9,5 +9,7 @@ Objective : Identification of areas for further improvement and expanding the ma
 
 Team - 
 Project Name        :  HOTEL FEEDBACK SENTIMENT ANALYSIS
+
 Data Scientist      :  1. Nivedha Shastry, 2. Umesh Hanumanagouda
+
 Kick-off-Date       :  01-03-2024
